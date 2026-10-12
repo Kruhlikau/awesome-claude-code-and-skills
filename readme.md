@@ -814,6 +814,11 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Lets multiple agents work in parallel without touching the host
   - Go-based; Apache-2.0 licensed
 
+- [Kruhlikau/subagent-tuner](https://github.com/Kruhlikau/subagent-tuner) ![Stars](https://img.shields.io/github/stars/Kruhlikau/subagent-tuner?style=flat-square)
+  - Claude Code mod that chooses the model and reasoning effort of every subagent
+  - Ask per subagent, recommend by task kind, or apply a saved default over the agent's request
+  - TypeScript, MIT licensed
+
 ## Security & Compliance
 
 Professional-grade security skills for vulnerability detection, code auditing, and compliance.
